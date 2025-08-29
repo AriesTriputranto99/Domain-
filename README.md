@@ -9,27 +9,27 @@
 [chromium / aosp / platform / sistem / pengesahan / refs/heads/upstream / * / server / main.cc]
 [blob: b22ba18e97304349db329fea08bbc88aa09f41e1] [ file ] [ log ] [ menyalahkan ] [ edit ]
 
-[$ git remote add origin https://github.com/AriesTriputranto/REPOSITORY.git]
-[ # Set a new remote]
-[ $ git remote -v]
-[ # Verify new remote]
-[ > origin  https://github.com/AriesTriputranto/REPOSITORY.git (fetch) ]
-[ > origin  https://github.com/AriesTriputranto/REPOSITORY.git (push) ] 
+$ git remote add origin https://github.com/AriesTriputranto/REPOSITORY.git
+# Set a new remote
+$ git remote -v 
+# Verify new remote
+> origin  https://github.com/AriesTriputranto/REPOSITORY.git (fetch) 
+> origin  https://github.com/AriesTriputranto/REPOSITORY.git (push) 
 
-[$ git remote add origin https://github.com/octocat/Spoon-Knife.git]
-[> fatal: remote origin already exists].
+$>git remote add origin https://github.com/octocat/Spoon-Knife.git>
+> fatal: remote origin already exists
 
-[git@github.com]
-[git@github.com:AriesTriputranto/REPOSITORY.git]
+git@github.com
+git@github.com:AriesTriputranto/REPOSITORY.git
 
-[$ git remote -v]
-[> origin  git@github.com:AriesTriputranto/REPOSITORY.git (fetch) ]
-[> origin  git@github.com:AriesTriputranto/REPOSITORY.git (push) ]
+$ git remote -v]
+> origin  git@github.com:AriesTriputranto/REPOSITORY.git (fetch)
+> origin  git@github.com:AriesTriputranto/REPOSITORY.git (push) 
 
-[git remote set-url origin https://github.com/AriesTriputranto/REPOSITORY.git]
+git remote set-url origin https://github.com/AriesTriputranto/REPOSITORY.git
 
-[$ git remote set-url sofake https://github.com/octocat/Spoon-Knife]
-[> fatal: No such remote 'sofake]'
+$ git remote set-url sofake https://github.com/octocat/Spoon-Knife
+> fatal: No such remote 'sofake '
 
 //[Hak Cipta (C) 2014 Proyek Sumber Terbuka Android]
 //[ Dilisensikan di bawah Lisensi Apache, Versi 2.0] ("Lisensi");
