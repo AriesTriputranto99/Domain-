@@ -133,27 +133,16 @@ kelas AttestationDaemon : publik brillo :: DBusServiceDaemon ], {
 [Untuk mengklarifikasi lisensi properti intelektual yang diberikan dengan Kontribusi dari setiap orang atau entitas], [Google LLC ("Google") harus memiliki Perjanjian Lisensi Contributor ("CLA") pada file yang telah ditandatangani oleh] [masing-masing Contributor, yang menunjukkan perjanjian untuk persyaratan lisensi di bawah ini. Lisensi ini adalah untuk] [perlindungan Anda sebagai Contributor serta perlindungan Google; tidak mengubah hak Anda untuk menggunakan Kontribusi] [Anda sendiri untuk tujuan lain].
 [Anda menerima dan menyetujui syarat-syarat dan kondisi berikut untuk Kontribusi Anda saat ini dan masa depan yang] [diajukan ke Google. Kecuali untuk lisensi yang diberikan di sini kepada Google dan penerima perangkat lunak yang] [didistribusikan oleh Google, Anda menyediakan baik-baik saja, judul, dan minat dalam dan untuk Kontribusi Anda].
 [Definisi]....>
-
-#[ "Anda]" (atau "Your") [akan berarti pemilik hak cipta atau badan hukum yang berwenang oleh pemilik hak cipta yang membuat perjanjian ini dengan Google. Untuk entitas hukum, entitas tersebut membuat Kontribusi dan semua entitas lain yang mengendalikan, dikendalikan oleh, atau berada di bawah kontrol umum dengan entitas tersebut dianggap sebagai satu Contributor. Untuk tujuan definisi ini, "kontrol" berarti (i) kekuatan, langsung atau tidak langsung, untuk menyebabkan arah atau manajemen entitas tersebut, baik d, atau (ii) kepemilikan lima puluh persen (50%) atau lebih dari saham yang luar biasa, atau (iii) kepemilikan yang bermanfaat dari entitas tersebut].
-
-# "[Kontribusi" akan berarti setiap karya asli dari kepengarngaran, termasuk modifikasi atau penambahan pekerjaan yang ada, yang sengaja diajukan oleh Anda ke Google untuk dimasukkan ke dalam, atau dokumentasi, salah satu produk yang dimiliki atau dikelola oleh Google (Work"). Untuk tujuan definisi ini, "diajukan" berarti segala bentuk komunikasi elektronik, verbal, atau tertulis yang dikirim ke Google atau perwakilannya, termasuk tetapi tidak terbatas pada komunikasi pada milis elektronik, kontrol kode sumber sistem, dan sistem pelacakan yang dikelola oleh, atau atas nama, Google untuk tujuan membahas dan meningkatkan Work, tetapi tidak termasuk komunikasi yang ditandai dengan mencolok atau ditetapkan secara tertulis oleh Anda sebagai "Bukan Kontribusi]".                                          
-
-# [Grant lisensi hak cipta. Subjek untuk syarat-syarat dan kondisi Perjanjian ini, Anda dengan ini memberikan kepada Google dan kepada penerima perangkat lunak yang didistribusikan oleh Google abadi, di seluruh dunia, non-eksklusif, tidak-charge, tanpa biaya, lisensi hak cipta yang tidak dapat direproduksi, mempersiapkan karya turunan, tampilan publik, melakukan publik, sublisensi, dan mendistribusikan Kontribusi Anda dan karya-karya turunan tersebut].
-
-# [Hiben lisensi. Subjek untuk syarat-syarat dan kondisi Perjanjian ini, Anda dengan ini memberikan kepada Google dan kepada penerima perangkat lunak yang didistribusikan oleh Google abadi, di seluruh dunia, non-eksklusif, tidak-charge, tanpa biaya, tanpa henti, tidak dapat digunakan (kecuali seperti yang dinyatakan dalam bagian ini) lisensi paten untuk membuat, telah membuat, menggunakan, menawarkan untuk menjual, menjual, menjual, mengimpor, dan jika tidak mentransfer pekerjaan, di mana lisensi tersebut hanya untuk  mereka. kombinasi dari Kontribusi Anda (s) dengan Pekerjaan yang telah diajukan. Jika ada entitas yang melembagakan litigasi paten terhadap Anda atau entitas lain (termasuk klaim silang atau klaim klaim klaim dalam gugatan) yang alleging bahwa Kontribusi Anda, atau Kerja yang telah Anda berkontribusi, merupakan pelanggaran paten langsung atau kontributor, maka setiap lisensi paten diberikan kepada entitas tersebut di bawah Perjanjian ini untuk itu Kontribusi atau Kerja akan berakhir sesuai dengan tanggal litigasi tersebut]. 
-
-# [Anda mewakili bahwa Anda secara hukum berhak untuk memberikan lisensi di atas. Jika majikan Anda memiliki hak atas properti intelektual yang Anda buat yang termasuk Kontribusi Anda, Anda mewakili bahwa Anda telah menerima izin untuk membuat Kontribusi atas nama majikan itu, bahwa majikan Anda telah menunggu hak-hak tersebut untuk Kontribusi Anda ke Google, atau bahwa majikan Anda telah mengeksekusi perusahaan CLA yang terpisah dengan Google. Anda mewakili bahwa masing-masing Kontribusi Anda adalah ciptaan asli Anda (lihat bagian 7 untuk pengajuan atas nama orang lain). Anda mewakili bahwa pengajuan Kontribusi Anda termasuk rincian lengkap dari lisensi pihak ketiga atau pembatasan lainnya (termasuk, tetapi tidak terbatas pada, paten dan merek dagang terkait) yang Anda sadari secara pribadi dan yang terkait dengan setiap bagian dari Kontribusi Anda. Anda tidak diharapkan untuk memberikan dukungan untuk Kontribusi Anda, kecuali sejauh Anda ingin memberikan dukungan. Anda dapat memberikan dukungan secara gratis, untuk biaya, atau tidak sama sekali. Kecuali diperlukan oleh hukum yang berlaku atau disepakati secara tertulis, Anda menyediakan Kontribusi Anda pada BASIS "AS IS", TATATANG WARRANTIES OR CONDITIONS OF ANY KIND, baik mengekspresikan atau tersirat, termasuk, tanpa batasan, garansi atau kondisi TITLE, NON - INFRINGEMENT, MERCHANTABILITY, atau FITNESS UNTUK PARTICULPURPRPOSY.Jika Anda ingin mengajukan pekerjaan yang bukan penciptaan asli Anda, Anda dapat mengirimkannya ke Google secara terpisah dari Kontribusi apapun, mengidentifikasi rincian lengkap dari sumbernya dan dari lisensi atau pembatasan lainnya (termasuk, tetapi tidak terbatas pada, paten terkait, merek dagang, dan perjanjian lisensi) yang Anda sadari secara pribadi, dan secara mencolok menandai pekerjaan sebagai "Diterbitkan atas nama pihak]                                      :                                         
-#[Syarat](https://developers.google.com/terms/site-terms)
-[Privasi](https://policies.google.com/privacy?hl=en)
-[Homepage](https://www.google.co.id)
-*[Topics](https://github.com/topics)
+                            :                                         
+[Syarat](https://developers.google.com/terms/site-terms) | [Privasi](https://policies.google.com/privacy?hl=en) [Homepage](https://www.google.co.id)
+[Topics](https://github.com/topics)
 [non-google-cla](https://github.com/topics/xml)
-*kueri
-<Individual Perjanjian>
-<Individual perjanjian we have pada file untuk Anda:
-Perjanjian	Nama Tanggal Ditandatangani	Mengelola>
+# queri
+[ <Individual Perjanjian> ]
+[ <Individual perjanjian we have pada file untuk Anda]:
+[Perjanjian	Nama Tanggal Ditandatangani	Mengelola> ]
 # referensi 
 [License txt](https://creativecommons.org/licenses/by/4.0/legalcode.txt)
 [License by 4.0](https://creativecommons.org/licenses/by/4.0/)
-@ Google Individual CLA 
-# signature: AriesTriputranto
+[@ Google Individual CLA]
+[# signature: AriesTriputranto]
